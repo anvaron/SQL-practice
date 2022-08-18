@@ -1,3 +1,5 @@
+--Table: Movies
+
 --1: Find the title of each film 
 SELECT title FROM movies;
 --2: Find the director of each film 
